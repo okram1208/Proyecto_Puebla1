@@ -1,0 +1,81 @@
+[0909/131833:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131833:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131833:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131833:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131833:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131833:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131835:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0909/131857:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: ISAC/48000/1 (105)
+[0909/131857:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: PCMU/8000/2 (110)
+[0909/131857:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: PCMA/8000/2 (118)
+[0909/131857:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: G722/8000/2 (119)
+[0909/131858:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0909/131858:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0909/131858:ERROR:gpu_video_decode_accelerator.cc(280)] HW video decode not available for profile 12
+[0909/131945:ERROR:audio_output_device.cc(327)] IO loop going away before the audio device has been stopped
+[0915/115121:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115122:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115122:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115122:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115122:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115122:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115124:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115141:ERROR:gpu_channel_host.cc(225)] Failed to send GpuChannelMsg_CreateOffscreenCommandBuffer.
+[0915/115141:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[0915/115141:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: ISAC/48000/1 (105)
+[0915/115141:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: PCMU/8000/2 (110)
+[0915/115141:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: PCMA/8000/2 (118)
+[0915/115141:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: G722/8000/2 (119)
+[0915/115142:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0915/115142:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0915/115142:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:WARNING:content_browser_client.cc(547)] No browser info matching frame process id 2 and routing id 1
+[0915/115142:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115142:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115142:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115143:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown proxy
+[0915/115143:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115143:ERROR:ipc_channel_win.cc(435)] pipe error: 232
+[0915/115143:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115516:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115516:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115516:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115516:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115516:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115517:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115520:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0915/115547:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: ISAC/48000/1 (105)
+[0915/115547:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: PCMU/8000/2 (110)
+[0915/115547:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: PCMA/8000/2 (118)
+[0915/115547:WARNING:webrtcvoiceengine.cc(472)] Unexpected codec: G722/8000/2 (119)
+[0915/115548:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0915/115548:WARNING:quota_manager.cc(193)] Create directory failed for path
+[0915/115551:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115551:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115551:ERROR:ipc_channel_win.cc(159)] pipe error: 109
+[0915/115551:ERROR:ipc_channel_win.cc(435)] pipe error: 232

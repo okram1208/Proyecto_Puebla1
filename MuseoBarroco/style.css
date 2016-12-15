@@ -1,0 +1,145 @@
+*{
+  font-family: Helvetica, Verdana, sans-serif;
+  input-motion: false;
+  lock-depth: true;
+  background-color: transparent;
+}
+.cajaPrincipal{
+  background-image: "IMG/FRAME.png";
+  background-size: contain;
+}
+.cajaTouch{
+  background: "IMG/Triumph_St_Ignatius_Pozzo.png";
+  background-size: 120% 130%;
+
+  background-position: -14px -14px;
+}
+.cajaSecundaria{
+  background: transparent;
+}
+.imgAmerica{
+  background-image: "IMG/bkAmerica.png";
+  background-size: 120% 130%;
+
+  background-position: -12px -12px;
+}
+.texto{
+  font-family: Sans Serif;
+  text-align: center;
+  color: white;
+  background-color: transparent;
+}
+.ctnImgen{
+  background-color: transparent;
+}
+.ctnImgenF1{
+  input-motion-x: true;
+  background-color: transparent;
+}
+.ctnImgenF2{
+  background-color: transparent;
+}
+.ctnImgenF3{
+  background-color: transparent;
+}
+.cntInformar{
+   background: url("IMG/texto.jpg")no-repeat;
+  background-size: contain;
+}
+.textoInformacion{
+  overflow: auto;
+  font-family: Helvetica, Verdana, sans-serif;
+  background-color: transparent;
+  color: black;
+  font-size: 5%;
+  background: transparent;
+}
+#imgSiguiente{
+  background: transparent;
+}
+.textoTitulo{
+  font-family: Helvetica, Verdana, sans-serif;
+  color: #C1AF59;
+  background-color: transparent;
+  background: transparent;
+  font-size: 20em;
+}
+.textoSubtitulo{
+  font-family: Helvetica, Verdana, sans-serif;
+  color: black;
+  background-color: transparent;
+  background: transparent;
+  font-size: 15em;
+}
+.textoSiguiente{
+  background-color: #C1AF59;
+  color: white;
+  background: transparent;
+}
+.scrollbar{
+
+}
+
+#cont_icon{
+  background: transparent;
+
+}
+
+#regresarText{
+  color: white;
+  font-size: 10px;
+  background: transparent;
+
+}
+#text_zoom{
+  color: white;
+  background: transparent;
+    font-size: 10px;
+
+}
+#exit{
+  background-color: transparent;
+}
+.ctnImgenTop{
+  width: auto;
+  input-motion-x: true;
+}
+.capasBorderTop{
+  background-color: transparent;
+  background: url("IMG/borde_top.jpg") no-repeat;
+  background-size: cover;
+}
+.capasBorderButtom{
+  background-color: transparent;
+  background: url("IMG/borde_bottom.jpg") no-repeat;
+  background-size: 100%;
+}
+#españa{
+
+}
+#text_span{
+  background: transparent;
+  color: black;
+}
+#Cont_Span{
+  background: transparent;
+}
+#fondo_Sig{
+  background: 5A8E80;
+}
+.Imagen_{
+  input-motion-x: true;
+}
+ImageWidget{
+
+}
+ImageWidget:active{
+  opacity: 0.2;
+}
+.cntTextoBarroco{
+  background-image: "IMG/bkAmerica.png";
+  background-size: 120%;
+
+  background-position: -12px -12px;
+
+}
